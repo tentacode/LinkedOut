@@ -1,8 +1,8 @@
 # LinkedOut
 
-🇺🇸 Unofficial extension that hides annoying suggestions and UI you will never click from your LinkedIn page. Hides suggestions, right sidebar and some buttons you'll never click. Resize main content.
+🇺🇸 Unofficial extension that hides the unwanted "Suggestions" posts LinkedIn injects into your feed.
 
-🇫🇷 Extension non officielle qui masque les suggestions agaçantes et les éléments d'interface que vous ne cliquerez jamais sur votre page LinkedIn. Masque les suggestions, la barre latérale droite et certains boutons inutiles. Redimensionne le contenu principal.
+🇫🇷 Extension non officielle qui masque les posts "Suggestions" que LinkedIn injecte dans votre fil d'actualité.
 
 ## Setup 🇺🇸
 

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "LinkedOut",
   "version": "1.0",
-  "description": "Unofficial extension that hides annoying suggestions and UI you will never click from your LinkedIn page. This does not hurt LinkedIn: if you are here you don't want to see these them anyway.",
+  "description": "Unofficial extension that hides the unwanted \"Suggestions\" posts LinkedIn injects into your feed. This does not hurt LinkedIn: if you are here you don't want to see them anyway.",
   "author": "Gabriel Pillet",
   "permissions": [],
   "icons": {

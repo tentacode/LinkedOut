@@ -1,34 +1,11 @@
-/* Hide "Suggestions" posts */
-.update-components-header__text-wrapper:has-text("Suggestions") {
-  display: none !important;
-}
-
-/* Hide LinkedIn right sidebar */
-@media screen and (min-width: 768px) {
-    .scaffold-layout--reflow .scaffold-layout__content--sidebar-main-aside {
-        grid-template-areas: "sidebar main" !important;
-        grid-template-columns: unset !important;
-    }
-
-    .scaffold-layout--reflow main {
-        max-width: 700px !important;
-    }
-}
-
-.scaffold-layout__aside {
-  display: none !important;
-}
-
-/* Hide premium buttons */
-.scaffold-layout__sidebar footer {
-  display: none !important;
-}
-
-/* Hide some buttons in the top nav bar */
-nav.global-nav__nav ul li:nth-child(7) {
-  display: none !important;
-}
-
-nav.global-nav__nav ul li:nth-child(8) {
+/*
+ * LinkedOut - styles.css
+ *
+ * content.js est seul juge de ce qui est une carte "Suggestions" (le feed
+ * LinkedIn n'a pas de classe/attribut stable qui le dise, seulement un
+ * libellé texte lu à l'exécution). Ce fichier ne fait que masquer ce que
+ * content.js a marqué, via cette unique classe.
+ */
+.linkedout-hidden {
   display: none !important;
 }
